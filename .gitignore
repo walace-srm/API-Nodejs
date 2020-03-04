@@ -1,3 +1,2 @@
 #dependencies
-/node-modules
-/.ci/node_modules
+node-modules
